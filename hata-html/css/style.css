@@ -54,7 +54,7 @@ table {	border-collapse: collapse; border-spacing: 0; }
 BASIC STYLES
 ****************************************************************************/
 
-body { background: #f7f7f7; color: #727272; font: 12px "Open Sans", Arial, Helvetica, sans-serif; }
+body { background: #fff; color: #000; font: 14px "Open Sans", Arial, Helvetica, sans-serif; }
 
 .full-width { width: 100%; }
 .feature-item { padding: 120px 0; }

@@ -13,12 +13,12 @@
 }
 
 .pace:before {
-    content: 'Hata';
+   
     display: inline-block;
     top: 30%;
     position: absolute;
     padding-left: 50px;
-    background: url("../images/logo.png") left center no-repeat;
+    background: url("../images/klogo.png") left center no-repeat;
     text-transform: uppercase;
     color: #212121;
     font-weight: 900;
