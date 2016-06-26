@@ -341,7 +341,7 @@ header .user-drop li i { margin-right: 20px; }
 .design article p { font-size: 16px; color: #727272; line-height: 28px; margin-bottom: 30px; }
 .design figure { overflow: hidden; line-height: 0; }
 
-.personal-agent { background: url(../images/banner-agent.png) no-repeat; background-size: cover; min-height: 415px; }
+.personal-agent { background: url(../images/gp1.png) no-repeat; background-size: cover; min-height: 500px; }
 .personal-agent figure { text-align: center; line-height: 0; }
 .personal-agent figure img { display: inline-block; }
 .personal-agent article { padding-top: 100px; }
