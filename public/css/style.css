@@ -478,7 +478,7 @@ footer ul li a:hover { color: #fff; }
 ****************************************************************************/
 
 .page-contents .space { height: 50px; }
-.page-contents p { font-size: 16px; color: #727272; line-height: 28px; margin-bottom: 40px; }
+.page-contents p { font-size: 16px; color: #000000; line-height: 28px; margin-bottom: 40px; }
 .page-contents img {
     -webkit-transition:-webkit-transform 0.5s ease-in;
     -moz-transition:-moz-transform 0.5s ease-in;
@@ -486,7 +486,7 @@ footer ul li a:hover { color: #fff; }
 }
 .page-contents ol { list-style-type: decimal-leading-zero; color: #727272; margin-left: 20px; margin-bottom: 30px; }
 .page-contents ul { list-style-type: disc; color: #727272; margin-left: 20px; margin-bottom: 30px; }
-.page-contents li { color: #727272; font-size: 16px; font-style: italic; line-height: 28px; }
+.page-contents li { color: #000000; font-size: 16px; font-style: italic; line-height: 28px; }
 .page-contents p+p:last-child { margin: 0; }
 .page-contents figure { margin: 0 0 40px; }
 .page-contents figure a { overflow: hidden; position: relative; display: block; line-height: 0; }
